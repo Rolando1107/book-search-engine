@@ -14,10 +14,9 @@ The Book Search Engine is a powerful web application designed for book lovers se
 - [Questions](#questions)
 
 ## Installation
-As this is a deployed project, no installation is required to use the application.
-
+```npm install``` ```npm run build``` ```npm run start```
 ## Usage
-To use this application, visit the URL provided in both the repository and GitHub. However, since the application is not currently live, cloning the repository using Node.js is the only way to access it at this time.
+To use this application, sign up and create an account
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
