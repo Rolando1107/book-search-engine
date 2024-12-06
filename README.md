@@ -24,5 +24,3 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request. For significant changes, please open an issue first to discuss your proposed modifications. Thank you!
 
-## Tests
-As of November 11, 2024, there are no test instructions available. This may change as development continues.
